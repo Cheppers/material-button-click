@@ -1,0 +1,27 @@
+{
+  "name": "material-button-click",
+  "version": "0.0.1",
+  "description": "jQuery Material Button Click plugin",
+  "main": "mbclicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheppers/material-button-click.git"
+  },
+  "author": "Zoltan Horvath",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Cheppers/material-button-click/issues"
+  },
+  "homepage": "https://github.com/Cheppers/material-button-click#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-eslint": "^4.0.0",
+    "gulp-header": "^1.8.9",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
